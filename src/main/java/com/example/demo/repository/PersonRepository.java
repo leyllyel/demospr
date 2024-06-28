@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.repository;
 
 public interface PersonRepository extends JpaRepository<Person, PersonId> {
 
